@@ -1,0 +1,14 @@
+{
+  "name": "tommywisbot",
+  "version": "1.0.0",
+  "description": "A bot made to spam/quote lines from The Room",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omer Aladdin",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  }
+}
